@@ -1,0 +1,10 @@
+.http
+image
+images
+php
+css
+js
+html
+dev
+api
+public
